@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+### email: kamrynlopez04@gmail.com
 <!--
 **kamrynlopez/kamrynlopez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
